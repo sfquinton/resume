@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+p {
+  color: red;
+  text-align: center;
+}
+
+.lol {
+  color: orange;
+  text-align: left;
+  font-size: 100px;
+}
